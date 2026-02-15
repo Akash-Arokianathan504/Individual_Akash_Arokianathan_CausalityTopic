@@ -6,6 +6,7 @@ This repository contains my individual causality project submission. It includes
 
 ## Repository Structure
 
+```
 Individual_YourName_CausalityTopic/
 ├── Causality_Notebook.ipynb
 ├── Example1_Dataset/
@@ -13,7 +14,7 @@ Individual_YourName_CausalityTopic/
 ├── QuizQuestions.md
 ├── Video_Link.txt
 └── README.md
-
+```
 
 ---
 
